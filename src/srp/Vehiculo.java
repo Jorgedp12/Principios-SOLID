@@ -3,7 +3,6 @@ package srp;
 public class Vehiculo {
     private String marca;
     private int velocidadMax;
-    public String getVelocidadMax;
 
     public Vehiculo(String marca, int velocidadMax){
         this.marca = marca;

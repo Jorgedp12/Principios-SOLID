@@ -1,0 +1,28 @@
+# Compiled Java classes
+bin/
+*.class
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Build output
+out/
+target/
+
+# Java tooling
+.classpath
+.project
+.settings/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
