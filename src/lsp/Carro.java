@@ -1,4 +1,4 @@
-package lsp;
+package LSP;
 
 public class Carro extends Vehiculo implements ConMotor {
     public Carro(String marca, int velocidadMax) {

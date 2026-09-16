@@ -1,4 +1,4 @@
-package lsp;
+package LSP;
 
 public class Bicicleta extends Vehiculo {
     public Bicicleta(String marca, int velocidadMax) {

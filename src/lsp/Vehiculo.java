@@ -1,4 +1,4 @@
-package lsp;
+package LSP;
 
 public abstract class Vehiculo {
     protected String marca;

@@ -1,4 +1,4 @@
-package srp;
+package SRP;
 
 public class Vehiculo {
     private String marca;

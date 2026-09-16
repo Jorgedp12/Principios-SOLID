@@ -1,4 +1,4 @@
-package lsp;
+package LSP;
 
 public interface ConMotor {
     void acelerarConMotor();

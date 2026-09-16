@@ -1,4 +1,4 @@
-package lsp;
+package LSP;
 
 public class App {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class App {
         };
 
         for (Vehiculo v : flota) {
-            v.acelerar();  // cada uno cumple el contrato a su manera, sin excepciones
+            v.acelerar();
         }
     }
 }
